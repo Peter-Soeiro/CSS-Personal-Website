@@ -12,14 +12,6 @@ h1 {
   font-family: 'Kalam', cursive;
 }
 
-em {
-  font-style: normal;
-}
-
-em:hover {
-  color: #F76B8A;
-}
-
 h2 {
   color: #66BFBF;
   font-size: 2rem;
